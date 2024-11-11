@@ -6,7 +6,7 @@
 -- 3. Set plugins up
 
 vim.g.mapleader = " "
-vim.cmd("set timeoutlen=500")
+-- vim.cmd("set timeoutlen=500")
 vim.cmd("nnoremap <Space> <Nop>")
 
 
