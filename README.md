@@ -8,7 +8,7 @@ maybe ill add something later
 
 # Recent news
 
-- i found out about leader keys. it made life so much fucking easier, i
+- i found out about the `leader` key. it made life so much fucking easier, i
    swear
 
-- jj and qq to exit insert mode (im fucking tired of reaching escape)
+- `jj` and `qq` to exit insert mode (im fucking tired of reaching escape)
