@@ -1,3 +1,9 @@
+-- some changes blah blah blah
+-- some changes again
+-- and some more
+-- i actually don't know what's better:
+-- <leader>W or <leader>e for saving and quitting
+--
 -- bootstrap lazy.nvim, LazyVim and your plugins
 -- require("config.lazy")
 
@@ -27,7 +33,10 @@ vim.cmd("nmap <leader>i I")
 -- file leader commands
 vim.cmd("nmap <leader>w :w<CR>")
 vim.cmd("nmap <leader>q :q<CR>")
-vim.cmd("nmap <leader>Q :wq<CR>")
+vim.cmd("nmap <leader>e :wq<CR>")
+vim.cmd("nmap <leader>Q :q!<CR>")
+vim.cmd("nmap <leader>W :wq<CR>")
+
 
 
 -- so when im just writing it actually kinda looks weird because of this waiting "animation"
