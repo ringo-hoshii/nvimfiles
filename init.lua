@@ -29,6 +29,10 @@ vim.cmd("nmap <leader>a A") -- to make life easier
 vim.cmd("nmap <leader>s S") 
 vim.cmd("nmap <leader>i I") 
 
+vim.cmd("nmap <leader>o o<Esc>")
+
+vim.cmd("nmap <leader>; <Esc>A {<CR>")
+
 
 -- file leader commands
 vim.cmd("nmap <leader>w :w<CR>")
