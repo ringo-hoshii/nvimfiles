@@ -33,6 +33,8 @@ vim.cmd("nmap <leader>o o<Esc>")
 
 vim.cmd("nmap <leader>; <Esc>A {<CR>")
 
+vim.cmd("nmap <leader><leader> <Esc>")
+
 
 -- file leader commands
 vim.cmd("nmap <leader>w :w<CR>")
