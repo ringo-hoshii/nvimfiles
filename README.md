@@ -13,6 +13,6 @@ maybe ill add something later
 
 - `jj` and `qq` to exit insert mode (im fucking tired of reaching escape)
 
-
 # Todo
 - using terminal with Vim motions (doesn't work on phone and won't on pc as well, i'm quite sure. but i need to find a way)
+- vim-gitgutter plugin
