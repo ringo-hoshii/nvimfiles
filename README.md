@@ -1,6 +1,6 @@
 # Location
 - Windows: %LocalAppData%\nvim\init.vim
-- Linux: idfk man if i were using it id tell ya
+- Linux: idfk man if i were using it i'd tell ya
 
 # My vimrc files
 yeah it's just so self-explanatory
@@ -15,4 +15,5 @@ maybe ill add something later
 
 # Todo
 - using terminal with Vim motions (doesn't work on phone and won't on pc as well, i'm quite sure. but i need to find a way)
+- vim-fugitive for git (gitgutter is just a gutter, not a complete git "interface" i think)
 - vim-gitgutter plugin
