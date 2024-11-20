@@ -13,6 +13,7 @@
 
 vim.g.mapleader = " "
 -- vim.cmd("set timeoutlen=500")
+vim.cmd("set notimeout")
 vim.cmd("nnoremap <Space> <Nop>")
 
 
