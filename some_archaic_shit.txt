@@ -1,0 +1,5 @@
+-- package.path = package.path .. ";" .. "C:/Users/admin/AppData/Local/nvim-data/plugged/nvim-surround/lua/?.lua"
+-- package.path = package.path .. ";" .. "C:/Users/admin/AppData/Local/nvim-data/plugged/nvim-surround/lua/?/init.lua"
+-- package.path = package.path .. ";" .. "C:/Users/admin/AppData/Local/nvim-data/plugged/mini.nvim/lua/?"
+
+^ this was in init.lua

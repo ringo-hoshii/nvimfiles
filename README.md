@@ -1,6 +1,6 @@
 # Location
 - Windows: %LocalAppData%\nvim\init.vim
-- Linux: idfk man if i were using it i'd tell ya
+- Linux: idfk man if i were using it i'd tell ya (EDIT 2/1/2025: ~/.config/nvim/init.vim)
 
 # My vimrc files
 yeah it's just so self-explanatory
