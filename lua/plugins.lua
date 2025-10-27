@@ -27,6 +27,7 @@ require("plugins.mini_files")
 require("Comment").setup()
 require("cmp").setup()
 vim.lsp.enable("ts_ls")
+vim.lsp.enable("vtsls")
 require("plugins.lua_ls")
 require("nvim-web-devicons").setup({})
 
