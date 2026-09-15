@@ -4,12 +4,12 @@
 
 ## Linux
 ```bash
-git clone https://github.com/ringo-hoshii/nvimfiles ~/.config/nvim
+git clone --depth=1 https://github.com/ringo-hoshii/nvimfiles ~/.config/nvim
 ```
 
 ## Windows
 ```cmd
-git clone https://github.com/ringo-hoshii/nvimfiles %LocalAppData%\nvim
+git clone --depth=1 https://github.com/ringo-hoshii/nvimfiles %LocalAppData%\nvim
 ```
 
 # Todo
